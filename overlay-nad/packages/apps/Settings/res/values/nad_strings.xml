@@ -14,7 +14,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Overlay for maintener --> 
-    <string name="github_username">Mikazuuu07</string> 
-    <string name="telegram_username">Mikazuuu07</string>
-    <string name="maintainer_name">Mikazuuu07</string>
+    <string name="github_username">symmetricalbyte</string> 
+    <string name="telegram_username">daddysymmetry</string>
+    <string name="maintainer_name">symmetricalbyte</string>
 </resources>
