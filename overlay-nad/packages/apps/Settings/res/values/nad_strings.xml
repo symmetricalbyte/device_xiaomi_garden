@@ -15,6 +15,6 @@
 
     <!-- Overlay for maintener --> 
     <string name="github_username">symmetricalbyte</string> 
-    <string name="telegram_username">daddysymmetry</string>
+    <string name="telegram_username">symmetricaldude</string>
     <string name="maintainer_name">symmetricalbyte</string>
 </resources>
